@@ -1,2 +1,2 @@
 # chatbot
-simple chat bot using dialogflow google cloud and nodejs.
+Made a simple email verification chat bot using dialogflow google cloud and nodejs.
