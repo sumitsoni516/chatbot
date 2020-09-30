@@ -18,14 +18,14 @@ function between(min, max) {
 var transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
-    user: 'sumitsn590@gmail.com',
-    pass: '7049656600'
+    user: 'your_email',
+    pass: 'password'
   }
 });
 
 var mailOptions = {
-  from: 'sumitsn590@gmail.com',
-  to: 'sumitsoni516@gmail.com',
+  from: 'your_email',
+  to: 'recievers_email',
   subject: 'Sending Email using Node.js',
   text: 'your otp is ' + otp
 };
