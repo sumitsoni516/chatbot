@@ -12,7 +12,7 @@
       "start": "firebase serve --only functions:dialogflowFirebaseFulfillment",
       "deploy": "firebase deploy --only functions:dialogflowFirebaseFulfillment"
     },
-    "dependencies": {
+    "dependencies": {hbhjbjhbjhbjb
       "actions-on-google": "^2.2.0",
       "firebase-admin": "^5.13.1",
       "firebase-functions": "^2.0.2",
